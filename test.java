@@ -3,4 +3,5 @@ public String frequencySort(String s) {
         for(char c : s){
             arr[c - 'a']++;
         }
+        System.out.print("hello world");
 }
